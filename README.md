@@ -10,5 +10,6 @@ This Repository Contains examples of my technical writing and documentation work
 - User guides
 - Technical writing
 
-  Author
+##  Author
+
   Monalisa Chakraborty 
