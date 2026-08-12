@@ -1,0 +1,21 @@
+# MARKDOWN  BASICS 
+
+## INTRODUCTION 
+
+Markdown is a simple way to format text in documents.
+
+## COMMON FORMATTING 
+
+- use ` # `for Headings.
+- use` ** text **` for bold text.
+- use '* text*' for italic text.
+- use ' - ' to create a list.
+
+## EXAMPLE 
+
+** Bold text**
+*Italic text*
+
+CONCLUSION 
+
+Markdown makes documents easy to write,read,and organize.
