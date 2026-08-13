@@ -25,7 +25,7 @@ This Repository Contains examples of my technical writing and documentation work
 ## HOW TO CREATE A GITHUB REPOSITORY 
 
 1 . Sign in to GitHub 
-2 . Click **New Repository**.
+2 . Click ** New Repository **.
 3 . Enter a Repository name.
 4 . Click ** Create Repository**.
 
