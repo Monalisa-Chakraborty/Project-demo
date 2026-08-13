@@ -30,7 +30,7 @@ This Repository Contains examples of my technical writing and documentation work
 
 3 . Enter a Repository name.
 
-4 . Click ** Create Repository**.
+4 . Click ** Create Repository **.
 
 ### TIPS
 
