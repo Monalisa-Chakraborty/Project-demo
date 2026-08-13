@@ -12,8 +12,16 @@ This Repository Contains examples of my technical writing and documentation work
 
 ##  Author
 
+ 
   Monalisa Chakraborty 
 
+
+## SKILL
+
+- ** Markdown**
+- ** GitHub**
+- Technical Documentation
+  
 ## HOW TO CREATE A GITHUB REPOSITORY 
 
 1 . Sign in to GitHub 
