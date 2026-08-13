@@ -19,6 +19,7 @@
   |_ _ _ _ |_ _ _ _ |
   
   | GitHub  | Version Control | 
-  | Markdown |  Documentation  |
-  | README  |  Project overview |
+  | Markdown| Documentation   |
+  
+  | README  | Project overview|
 
