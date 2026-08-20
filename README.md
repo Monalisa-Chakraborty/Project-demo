@@ -53,3 +53,12 @@ This Repository Contains examples of my technical writing and documentation work
   | -----|--------|
   | GitHub| Version Control|
   | Markdown| Documentation|
+
+  CODE BLOCK
+
+  ``` markdown
+  ## Installation
+
+  run the following command
+  ```bash
+  npm install
