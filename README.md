@@ -1,4 +1,4 @@
-# Technical writing portfolio 
+9# Technical writing portfolio 
 Welcome to my technical writing portfolio.
 ## About This Project 
 This Repository Contains examples of my technical writing and documentation work.
@@ -44,4 +44,5 @@ This Repository Contains examples of my technical writing and documentation work
 
   ## MY IMAGE
 
-  ![Profile] ( Profile.jpg)
+  ![Profile]
+  (screenshot_2025093_224903.png)
