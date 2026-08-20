@@ -46,3 +46,10 @@ This Repository Contains examples of my technical writing and documentation work
 
   ![Profile]
   (screenshot_2025093_224903.png)
+
+  ## SKILLS TABLE
+
+  | Tool | Purpose|
+  | -----|--------|
+  | GitHub| Version Control|
+  | Markdown| Documentation|
