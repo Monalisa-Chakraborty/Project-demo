@@ -62,5 +62,6 @@ This Repository Contains examples of my technical writing and documentation work
   run the following command
   ```bash
   npm install
+  ```
 
   [Google](https://www.google.com)
