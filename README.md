@@ -40,7 +40,7 @@ This Repository Contains examples of my technical writing and documentation work
   ## CONNECT
 
   [My
-  GitHub] (https: //GitHub.com/Monalisa
+  GitHub](https: //GitHub.com/Monalisa-Chakraborty)
 
   ## MY IMAGE
 
