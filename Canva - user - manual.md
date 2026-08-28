@@ -191,6 +191,54 @@ Key areas include:
   3. Drag it to the desired position.
   4. Release the image.
 
+  ## 6. Using Design Elements
+
+  Canva provides various design
+  elements that can make your
+  design more attractive and
+  organized.
+
+  1. Open your Canva design.
+  2. Select **Elements** from the side panel.
+  3. Search for a shape or browse the available shapes.
+  4. Click shape to add it
+     to your design.
+  5. Resized ar position the shape
+     as needed.
+
+  ### Adding Icons and Graphics
+
+  1. Select **Elements** from the
+     side panel.
+  2. Search for an icon or graphic
+     using a keyword.
+  3. Select an element you want to use.
+  4. Click the element to add it to your design.
+  5. Adjust it's size and position.
+
+  ### Adding lines
+
+  1. Open **Elements**.
+  2. Search for **Lines**.
+  3. Select a line style.
+  4. Add the lines to your design.
+  5. Adjust it's length and position.
+
+  ### Adjusting Elements
+
+  you can customise elements to
+  match your design.
+
+  - Resize the elements.
+
+  - Move the element.
+  - Rotate the element.
+  - Change the color when the
+    option is available.
+
+
+
+
 
 
    
