@@ -54,12 +54,51 @@ If you already have a Canva account:
 The Canva home page provides access to your recent designs,
 templates,and design tools.
 
+
 Key areas include:
 - Search bar
 - Recent designs
 - Templates
 - Create a design button
-- Account setting 
+- Account setting
+
+  ## 3. Creating a New Design
+
+  ### Choosing a Design Type
+
+  Canva provides different design
+  types for different Purpose.
+
+  Follow these Steps:
+
+  1. Click ** Create a design**.
+  2. Search for the type of design
+     you want to create.
+  3. Select a suitable design type.
+  4. A new design page will open.
+ 
+  ### Using a Blank Canvas
+
+  To start a design from scratch:
+
+  1. Click **Create a design**.
+  2. Select the required design type.
+  3. Choose**Blank** to open an empty canvas.
+  4. Start adding text, images and other elements.
+ 
+  ### Using Templates
+
+  Templates provide ready - made designs
+  that you can customise
+
+  1. Select a design type.
+  2. Browse the available templates.
+  3. Select a template you like.
+  4. Customise the text, images
+     and other elements.
+
+
+  6. 
 
 
 
