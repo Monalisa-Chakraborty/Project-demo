@@ -98,6 +98,47 @@ Key areas include:
      and other elements.
 
 
+  ## 4 . Adding and Editing  Text
+
+  ### Adding Text
+
+  You can add Headings, subheadings
+  and body text to your design.
+
+  Follow these steps:
+
+  1. Open your Canva design.
+  2. Select **Text** from the side panel.
+  3. Choose a text option.
+  4. Enter your text.
+  5. Move the text box to the desired position.
+ 
+  ### Changing Font and Font size
+
+  To change the appearance of your text:
+
+  1. Select the text box.
+  2. Choose a font from font menu.
+  3. select the required font size
+  4. Apply the changes.
+ 
+  ### Changing the Text Color
+
+  1. Select the text.
+  2. Click the **Text Color** option.
+  3. Choose a color from the available options.
+ 
+  ### Aligning Text
+
+  You can align text to improve the
+  layout of your design.
+
+  1. Select the text box.
+  2. Opr the alignment options.
+  3. Choose **Left** , **center**,
+  or **Right** alignment.
+
+
    
 
 
