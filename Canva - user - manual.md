@@ -236,6 +236,39 @@ Key areas include:
   - Change the color when the
     option is available.
 
+  ## 7. Working with Templates
+
+  Templates provide ready-made
+  designs that you can customize
+  for different Purposes.
+
+  ### Finding a Template
+
+  1. Open Canva.
+  2. Select the type of design you
+     want to create.
+  3. Browse the available templates.
+  4. Use the search bar to find a
+     a template by keyword.
+  5. Select a template that matches
+     your needs.
+
+  ### Customising a Template
+
+  you can modify a template to suit
+  your requirements.
+
+  1. Select a template.
+  2. Replace the existing text
+     with your own text.
+  3. Replace or add images.
+  4. Change colors,fonts, and other elements.
+  5. Adjust the layout as needed.
+
+  > **Tip:** Choose a template that is close
+  to your desired design. This can save time
+  and make customisation easier.
+
 
 
 
