@@ -18,7 +18,7 @@ Canva and create simple designs.
 ### What can you create with Canva?
 
 With Canva, you can create:
-- Presentation
+- Presentations 
 - Posters
 - Social media
 - Resume
