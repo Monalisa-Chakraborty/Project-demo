@@ -138,6 +138,60 @@ Key areas include:
   3. Choose **Left** , **center**,
   or **Right** alignment.
 
+  ## 5. Adding lmage
+
+  ### Uploading an Image
+
+  you can upload your own images to
+  a Canva design.
+
+  Follow these steps:
+
+  1. Open your Canva design.
+  2. Select **upload** from the
+  side panel.
+  3. Click ** upload files**.
+  4. Select an Image from your device.
+  5. Wait for the image to finish
+     Uploading.
+  6. Click the Uploaded image to
+     add it to your designs.
+
+
+  ### Adding an Image from Canva
+
+  Canva also provides a collection of images
+  that you can use in your designs.
+
+  1. Open your Canva design.
+  2. Select **Elements** from the side panel.
+  3. Search for an Image using a keyword.
+  4. Select an image you want to use.
+  5. Click the image to add it to your design.
+ 
+  ### Resizing an Image
+
+  1. Select an image.
+  2. Drag a corner handle to make
+     the image larger or smaller.
+  3. Adjust the size until it fits
+     your design.
+
+  ### Cropping an Image
+
+  1. Select the image.
+  2. Click **crop**
+  3. Adjust the visible area of the image.
+  4. Click **Done** to apply the changes.
+
+  ### Moving an Image
+
+  1. Select the image.
+  2. Click and hold the image.
+  3. Drag it to the desired position.
+  4. Release the image.
+
+
 
    
 
