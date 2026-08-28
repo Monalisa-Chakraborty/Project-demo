@@ -24,3 +24,42 @@ With Canva, you can create:
 - Resume
 - Flyers
 - Documents 
+
+## 2. Getting Started 
+
+### Creating  a Canva Account 
+
+To start using Canva, you need to 
+create a Canva account.
+
+Follow these steps:
+
+1. Open Canva.
+2. Click **sign up**.
+3. Choose a sign - up option.
+4. Enter your details.
+5. Complete the sign- up process.
+
+### Logging in 
+
+If you already have a Canva account:
+
+1. Open Canva
+2. Click **Log in**.
+3. Enter your email address and password.
+4. Click on ** Log in**.
+
+### Understanding the Canva Home Page 
+
+The Canva home page provides access to your recent designs,
+templates,and design tools.
+
+Key areas include:
+- Search bar
+- Recent designs
+- Templates
+- Create a design button
+- Account setting 
+
+
+
