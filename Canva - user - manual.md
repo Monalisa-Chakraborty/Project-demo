@@ -180,7 +180,7 @@ Key areas include:
   ### Cropping an Image
 
   1. Select the image.
-  2. Click **crop**
+  2. Click **Crop**
   3. Adjust the visible area of the image.
   4. Click **Done** to apply the changes.
 
