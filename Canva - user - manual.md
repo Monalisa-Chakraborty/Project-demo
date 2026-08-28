@@ -265,6 +265,7 @@ Key areas include:
   4. Change colors,fonts, and other elements.
   5. Adjust the layout as needed.
 
+
   > **Tip:** Choose a template that is close
   to your desired design. This can save time
   and make customisation easier.
