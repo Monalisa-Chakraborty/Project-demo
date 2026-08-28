@@ -270,6 +270,66 @@ Key areas include:
   to your desired design. This can save time
   and make customisation easier.
 
+  ## 8. Saving and Downloading
+
+  Canva automatically saves your changes
+  while you work on a design.
+
+  ### Saving a Design
+
+  To make sure latest changes
+  are saved:
+
+  1. Open your Canva design.
+  2. Make the required changes.
+  3. Wait for Canva to save the changes.
+  4. Check that the design has finished
+     saving before closing Canva.
+
+  ### Downloading a Design
+
+  you can download your design in
+  different file formats.
+
+  1. Open the design you want to download.
+  2. Click **Share**.
+  3. Select **Download**
+  4. Choose the required file type.
+  5. Select the pages you want to
+     download, if applicable.
+  6. Click **Download**
+
+  ### Downloading as PNG
+
+  PNG is useful for image and
+  graphics.
+
+  1. Open the **Download** options.
+  2. Select **PNG** as the type.
+  3. Click **Download** .
+
+  ### Downloading as JPG
+
+  JPG is commonly used for
+  photographs and other images.
+
+  1. Open the **Download** options.
+  2. Select **JPG** as the file type.
+  3. Click **Download**.
+
+  ### Downloading as PDF
+
+  PDF is useful for Documents,
+  flyers, and designs that you want
+  to print or share.
+
+  1. Open the **Download** options.
+  2. Select a PDF format.
+  3. Click **Download**.
+  
+
+  
+
 
 
 
