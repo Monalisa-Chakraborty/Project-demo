@@ -326,6 +326,23 @@ Key areas include:
   1. Open the **Download** options.
   2. Select a PDF format.
   3. Click **Download**.
+ 
+  ## 9. Adding Links
+
+  Canva allows you to add hyperlink to text and elements.
+
+  ### Steps to Add Link
+
+  1. Select the text and element.
+  2. Click the **Link** option.
+  3. Enter or paste the URL.
+  4. Click **Done** to apply the link.
+ 
+  ### Example
+
+  [Visit
+  Canva](https://www.canva.com/)
+
   
 
   
