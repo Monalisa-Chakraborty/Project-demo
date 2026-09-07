@@ -365,6 +365,34 @@ Key areas include:
   changes are saved before closing
   Canva.
 
+  ## 11. Downloading your Design
+
+  Canva allows you to download your
+  completed design in different file
+  formats.
+
+  ### Steps to Download Your Design
+
+  1. Click the **Share** button.
+  2. Select  **Download**.
+  3. Choose the required file type.
+  4. Select the pages you want to
+     download.
+  5. Click  **Download**.
+  6. Wait for the file to be
+     downloaded.
+
+  ###  Common File Formats
+
+  - **PDF** - Suitable for
+    documents and user manuals.
+  - **PNG** - Suitable for
+    high-quality images.
+  - **JPG** - Suitable for smaller
+    image files.
+  
+  
+
   
 
   
