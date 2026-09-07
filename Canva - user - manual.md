@@ -390,6 +390,11 @@ Key areas include:
     high-quality images.
   - **JPG** - Suitable for smaller
     image files.
+
+  ###  Tip
+
+  Choose the file format according to how you
+  plan to use the design.
   
   
 
