@@ -343,6 +343,30 @@ Key areas include:
   [Visit
   Canva](https://www.canva.com/)
 
+  ## 10. Saving Your Design
+
+  Canva automatically saves your design
+  while you work.
+
+  ###  Steps to Save Your Design
+
+  1. Make changes to your design.
+  2. Wait for Canva to save the
+     changes automatically.
+  3. Check the design name at the
+     top of the editor.
+  4. Rename the design if needed.
+  5. Make sure all changes have
+     been saved before leaving Canva.
+
+  ###  Tip
+
+  Always check that your latest
+  changes are saved before closing
+  Canva.
+
+  
+
   
 
   
