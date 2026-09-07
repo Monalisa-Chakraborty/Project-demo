@@ -395,7 +395,44 @@ Key areas include:
 
   Choose the file format according to how you
   plan to use the design.
-  
+
+  ## 12. Tips & Best Practice
+
+  Follow these tips to create professional
+  and attractive designs in Canva.
+
+  ###  Design Tips
+
+  1. **Keep the design simple**
+     Avoid using too many colours,
+     images,or decorative elements.
+
+  2. **Use consistent fonts**
+     use 2 - 3 fonts consistently
+     throughout the design.
+
+  3. **Choose suitable colours**
+     Make sure the text is easy to
+     read against the background.
+
+  4. **Use high quality images**
+     Use clear and good - quality
+     images whenever possible.
+
+  5. **Review before downloading**
+     Check spelling.alighnment,
+     images, and layout before downloading.
+
+  ###  Final Checklist
+
+  - [ ] Spellings checked
+  - [ ] Images are properly placed
+  - [ ] Fonts are consistent
+  - [ ] Colours are reachable
+  - [ ] Layout is properly aligned
+  - [ ] Final der reviewed
+
+
   
 
   
