@@ -19,4 +19,13 @@ who wants to show their skills and accomplishments.
 A portfolio can help beginners showcase their skills 
 even if they do not have much past work experience.
 
+## 3. What should a beginner portfolio include?
+
+A beginner portfolio should include:
+
+1. A short self-introduction
+2. Educational qualification and achievements
+3. Sample of project or work
+4. contact details 
+
 
