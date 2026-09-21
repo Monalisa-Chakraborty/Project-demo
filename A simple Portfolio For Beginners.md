@@ -26,6 +26,24 @@ A beginner portfolio should include:
 1. A short self-introduction
 2. Educational qualification and achievements
 3. Sample of project or work
-4. contact details 
+4. contact details
+
+## 4. How to create a simple portfolio 
+
+1. Choose a suitable platform
+
+Choose a suitable platform where you can create 
+and share your work, projects and samples.
+
+2. Add your information
+
+Add a short introduction about yourself,
+educational qualifications, achievements,
+skills, best work and other relevant information.
+
+3. Add your best work
+
+Choose a few of your best projects and samples 
+that show your skills.
 
 
