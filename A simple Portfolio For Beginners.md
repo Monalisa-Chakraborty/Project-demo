@@ -66,7 +66,7 @@ complete a new project,or achieve something new.
 
 ## 5. Final Checklist 
 
-- [ ×] Short Introduction
+- [ × ] Short Introduction
 - [ ×] Educational qualifications
 - [ ×] skills
 - [ ×] Achievements
