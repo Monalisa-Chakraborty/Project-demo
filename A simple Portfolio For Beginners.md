@@ -46,4 +46,36 @@ skills, best work and other relevant information.
 Choose a few of your best projects and samples 
 that show your skills.
 
+4. Keep the Design Simple
+
+Use a clean and simple design so that anyone 
+can read and understand it clearly.
+
+5. Add Contact Information
+
+Add your email address,phone number and 
+ any other relevant contact details 
+so that anyone can reach you easily.
+
+6. Review and Update Your Portfolio
+
+Regularly check your Portfolio for mistakes 
+and update it when you acquire a new skills,
+complete a new project,or achieve something new.
+
+
+## 5. Final Checklist 
+
+- [ ×] Short Introduction
+- [ ×] Educational qualifications
+- [ ×] skills
+- [ ×] Achievements
+- [ ×] Best projects or work samples
+- [× ] Contact Information
+- [ ×] Simple and clean design
+- [ ×] Contact Details 
+- [× ] Review and Update the Portfolio
+
+
+
 
