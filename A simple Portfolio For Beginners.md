@@ -30,18 +30,18 @@ A beginner portfolio should include:
 
 ## 4. How to create a simple portfolio 
 
-1. Choose a suitable platform
+1. Choose a Suitable Platform
 
 Choose a suitable platform where you can create 
 and share your work, projects and samples.
 
-2. Add your information
+2. Add Your Information
 
 Add a short introduction about yourself,
 educational qualifications, achievements,
 skills, best work and other relevant information.
 
-3. Add your best work
+3. Add Your Best work
 
 Choose a few of your best projects and samples 
 that show your skills.
@@ -73,7 +73,14 @@ complete a new project,or achieve something new.
 - [ ] Best projects or work samples 
 - [ ] Contact Details
 - [ ] simple and clean design
-- [ ] Review and Update the Portfolio 
+- [ ] Review and Update the Portfolio
+
+## 6. Conclusion 
+
+A portfolio is a great help for a person to
+present their skills, achievements,and best work.
+It keeps their information organized and easy to understand,
+and helps them present themselves clearly.
  
 
 
