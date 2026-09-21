@@ -66,15 +66,21 @@ complete a new project,or achieve something new.
 
 ## 5. Final Checklist 
 
-- [ × ] Short Introduction
-- [ ×] Educational qualifications
-- [ ×] skills
-- [ ×] Achievements
-- [ ×] Best projects or work samples
-- [× ] Contact Information
-- [ ×] Simple and clean design
-- [ ×] Contact Details 
-- [× ] Review and Update the Portfolio
+- [ ] Short Introduction
+- [ ] Educational qualifications
+- [ ] Skills
+- [ ] Achievements
+- [ ] Best projects or work samples 
+- [ ] Contact Details
+- [ ] simple and clean design
+- [ ] Review and Update the Portfolio 
+ 
+
+
+
+
+
+
 
 
 
