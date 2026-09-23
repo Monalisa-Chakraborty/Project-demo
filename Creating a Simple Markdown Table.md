@@ -40,6 +40,11 @@ in Markdown. For Example,
 - Using inappropriate characters for the line.
 - Not having same number of columns in each row.
 
+## Example 
+
+| Name | Subject| Score|
+| ---- | -------| -----|
+
 
 
 
