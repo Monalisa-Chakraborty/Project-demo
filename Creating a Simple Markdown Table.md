@@ -26,4 +26,22 @@ use a vertical bar (|) to separate each column.On the
 next line use hyphens (-) to separate header from data.
 On the last line, write the required information for each column.
 
+## Add More Rows 
+
+A new row is needed to add more information to a table.
+The same number of columns is needed in each row. Use a
+vertical bar (|) to separate each piece of information. 
+
+## Common Mistakes 
+
+Beginners can make mistakes when they create a table 
+in Markdown. For Example,
+- Missing a vertical bar to separate columns.
+- Using inappropriate characters for the line.
+- Not having same number of columns in each row.
+
+
+
+
+
 
