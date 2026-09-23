@@ -44,6 +44,9 @@ in Markdown. For Example,
 
 | Name | Subject| Score|
 | ---- | -------| -----|
+| Soma |English | 75   |
+| Arna |English | 85   |
+| Mohor|English | 90   |
 
 
 
