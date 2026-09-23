@@ -21,8 +21,9 @@ separate columns, aand a hyphens are (-) are used to
 separate header from data.
 
 ## How to Create a Simple Table 
-samples First, create a header for the Table and 
+First, create a header for the Table and 
 use a vertical bar (|) to separate each column.On the 
 next line use hyphens (-) to separate header from data.
 On the last line, write the required information for each column.
-(
+
+
