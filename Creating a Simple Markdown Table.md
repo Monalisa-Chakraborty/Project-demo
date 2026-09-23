@@ -49,7 +49,11 @@ in Markdown. For Example,
 | Mohor|English | 90   |
 
 ## Check list 
-[ ] Create a clear header 
+- [ ] Create a clear header
+- [ ] Use vertical bar to separate columns
+- [ ] use hyphens to separate the header from the data
+- [ ] Keep the same number of columns in each row
+- [ ] Check the final format of the table 
 
 
 
